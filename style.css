@@ -1,0 +1,115 @@
+html {
+    font-family: 'Droid Serif', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lato', 'Open Sans', 'Raleway', 'Roboto', sans-serif;
+}
+
+body {
+    margin: 10px;
+    padding: 5px;
+    color: #000000;
+    background-color: #FFFFFF;
+    font-family: 'lato', sans-serif;
+    font-size: 1em;
+}
+
+.footer {
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    color: #000000;
+    font-family: 'Droid Serif', serif;
+    font-size: 1em;
+}
+
+.header {
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    color: #000000;
+    font-family: 'lato', sans-serif;
+    font-size: 5em;
+}
+
+.h2 {
+    margin: 10px;
+    padding: 5px;
+    color: #000000;
+    font-family: 'Droid Serif', serif;
+    font-style: bold;
+    text-align: center;
+    font-size: 1em;
+}
+
+h3 {
+    margin: 10px;
+    padding: 5px;
+    color: #000000;
+    font-family: 'Droid Serif', serif;
+    font-size: 1em;
+}
+
+.nav {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: #CEABCB;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+}
+
+.center {
+    text-align: center;
+}
+
+.table {
+    background-color: #cccccc;
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td,
+th {
+    border: 2px solid black;
+    padding: 5px;
+    background-color: #ffffff;
+}
+
+.tr {
+    background-color: #ffffff;
+}
+
+nav li {
+    display: inline;
+    font-size: 1.5em;
+}
+
+nav a:link,
+nav:visited {
+    text-decoration: none;
+    color: black;
+    border: 1px solid #000;
+    background: #70E4EF;
+}
+
+nav a:hover,
+nav a:active {
+    border: 1px solid #FFF;
+    background: #62B6CB;
+}
+
+form {
+    display: block;
+}
+
+body>div {
+    width: calc(100% - 20px);
+}
+
+#countup p {
+    display: inline-block;
+    padding: 5px;
+    background: #FFA500;
+    margin: 0 0 20px;
+}
